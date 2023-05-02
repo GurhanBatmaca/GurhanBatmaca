@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurhanBatmaca)](https://github.com/GurhanBatmaca/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurhanBatmaca&langs_count=8)](https://github.com/GurhanBatmaca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurhanBatmaca&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/GurhanBatmaca/github-readme-stats)
