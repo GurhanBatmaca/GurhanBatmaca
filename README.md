@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurhanBatmaca&show_icons=true&theme=transparent)
+![GurhanBatmaca's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurhanBatmaca&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurhanBatmaca&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/GurhanBatmaca/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurhanBatmaca)](https://github.com/GurhanBatmaca/github-readme-stats)
+[![GurhanBatmaca's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurhanBatmaca)](https://github.com/GurhanBatmaca/github-readme-stats)
+
+<a href="https://github.com/GurhanBatmaca/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GurhanBatmaca&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/GurhanBatmaca/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GurhanBatmaca&repo=convoychat" />
+</a>
