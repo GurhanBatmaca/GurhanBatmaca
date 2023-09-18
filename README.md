@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer| FULL TIME LEARNING<br>
+Full Stack Web Developer | FULL TIME LEARNING<br>
 
 
 # 💻 Tech Stack:
