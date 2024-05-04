@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gürhan, I am a full-stack web developer.</p>
+<p align="left">My name is Gürhan, I am a full-stack web - mobil developer.</p>
 
 ###
 
