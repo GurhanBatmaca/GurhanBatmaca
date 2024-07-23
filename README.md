@@ -1,4 +1,4 @@
-<h1 align="left">Hi, My name is Gürhan, I am a Full-Stack Web -Mobil developer.</h1>
+<h1 align="left">Hello, I'm Gürhan. I'm a Full-Stack Web - Mobile Developer.</h1>
 
 ###
 
