@@ -1,8 +1,6 @@
-<h1 align="left">💫 About Me</h1>
+<h1 align="left">My name is Gürhan, I am a full-stack web - mobil developer.</h1>
 
 ###
-
-<p align="left">My name is Gürhan, I am a full-stack web - mobil developer.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
